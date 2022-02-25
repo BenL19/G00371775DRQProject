@@ -1,0 +1,10 @@
+Welcome to Game Talk!
+A react based single page application.
+
+You can navigate through the components using the links in the navbar at the top of the page.
+
+To create a review, navigate to the "Create Review" component in the navbar. There you will be met with a form.
+Fill out this form following the specific fields and click the add game button. This will add your game review to the "Reviews"
+Component where you can view it and any other reviews already available.
+
+You can delete a review by clicking the "Delete" button positioned under each review.
